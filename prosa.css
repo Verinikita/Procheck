@@ -1,0 +1,103 @@
+body       
+{ 
+	background-color:#9999CC;
+	background-image:url(bg_green.gif);
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:12px;
+	line-height:20px;
+	color:#436666; 
+}
+
+.helplink
+{
+	font-variant:small-caps;
+	font-size:smaller;
+	position:absolute;
+	left:410px;
+}
+
+.imglink
+{
+	font-variant:small-caps;
+	font-size:smaller;
+	position:absolute;
+	left:410px;
+}
+
+a:hover       
+{ 
+    color:#fff; 
+}
+
+a:visited       
+{ 
+    color:#699; 
+}
+
+a:link              
+{ 
+    color:#436666; 
+}
+
+tr
+{
+    font-variant:small-caps;
+}
+
+.pdbselect
+{
+    width:4em;
+}
+
+.section
+{
+	background-color:white;
+	width:430px;
+	padding:10px;
+	clear:left;
+}
+
+div[class=section] h3
+{
+	margin-top:0px;
+}
+
+.zscore
+{
+	font-size:120%;
+	font-weight:bold;
+	background-color:#ccffcc;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:10px;
+	padding-right:10px;
+	margin:0px;
+}
+
+.errorText
+{
+	color:#CC0000;
+}
+
+.bodyHelp
+{
+	background-color:white;
+	background-image:none;
+}
+
+.figure
+{
+	padding:10px;
+	font-size:smaller;
+}	
+
+.reference
+{
+	line-height:130%;
+	width:430px;
+}
+
+.reference.ul
+{
+	list-style-type:square;
+}
